@@ -16,4 +16,5 @@ Learning that the phase of learning to code (again) will be very much painful, k
         (describes the breadth of the web development profession.)
 Reading the "Udacity’s blog post on front-end, back-end and full stack developers"
 
-Day 3: 
+Day 3: (Late study and doing things)
+
