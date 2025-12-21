@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en"> </html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Page CV</title>
+</head>
+<body>
+    <h1>Marleah Mejos</h1>
+    <h2>Doer of coding</h2>
+
+    <section>
+        <h3>PRK 5 Zone 6 Dragon Compound</h3>
+        <h3>Davao City, Philippines</h3>
+        <h3>+63 906 125 5598</h3>
+        <h3>marleahmejos@gmail.com</h3>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <p>HTML, CSS, JavaScript </p>
+
+    </section>
+    <section>
+        <h2>Education</h2>
+        <h3>Odin School of Software Development</h3>
+        <p>Full Stack Web Development Program</p>
+        <p>2024 - Present</p>
+
+        <h3>University of Mindanao</h3>
+        <p>Bachelor of Science in Information Technology</p>
+        <p>2018 - 2022</p>
+    </section>
+    <section>
+        <h2>Experience</h2>
+        <h3>Internship at Tech Solutions
+        </h3>
+        <p>Assisted in developing web applications using HTML, CSS, and JavaScript.</   
+        <p>Collaborated with a team of developers to troubleshoot and debug code.</p>
+        <p>Duration: June 2022 - August 2022</p>
+    </section>
+                
+
+
+</body>
+</html>
