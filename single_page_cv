@@ -1,45 +1,107 @@
 <!DOCTYPE html>
-<html lang="en"> </html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Single Page CV</title>
-</head>
-<body>
-    <h1>Marleah Mejos</h1>
-    <h2>Doer of coding</h2>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marleah Mejos - Wannabe Software Engineer</title>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Single Page CV of Marleah Mejos, a Software Engineer." />
+    <meta name="keywords" content="Frontend Developer, HTML, CSS, JavaScript, Resume, Web Development" />
+    <meta name="author" content="Marleah Mejos" />
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Marleah Mejos - Soon to be Software Engineer" />
+    <meta property="og:description" content="Single Page CV of Marleah Mejos, a wannabe Software Engineer." />
+    <meta property="og:image" content="https://res.cloudinary.com/duidrgg1k/image/upload/v1725421776/male-technologist_n0fbey.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://austinhill.dev" />
+    <!-- Favicon -->
+    <link rel="icon" href="https://austinhill.dev/favicon.ico" type="image/x-icon" />
+  </head>
 
-    <section>
-        <h3>PRK 5 Zone 6 Dragon Compound</h3>
-        <h3>Davao City, Philippines</h3>
-        <h3>+63 906 125 5598</h3>
-        <h3>marleahmejos@gmail.com</h3>
-    </section>
-    <section>
-        <h2>Skills</h2>
-        <p>HTML, CSS, JavaScript </p>
+  <body>
+    <header>
+      <h1>Marleah Mejos</h1>
+      <h2>Wannabe Software Engineer</h2>
+      <div class="contact-info">
+        <address>
+          123 Avocado Street<br />
+          Sunshine, AZ 12345
+          <p>(123) 456-7890</p>
+          <p>no_reply@example.com</p>
+        </address>
+      </div>
+    </header>
 
-    </section>
-    <section>
-        <h2>Education</h2>
-        <h3>Odin School of Software Development</h3>
-        <p>Full Stack Web Development Program</p>
-        <p>2024 - Present</p>
+    <main>
+      <section class="skills">
+        <h3 class="section-title">Skills</h3>
+        <p>
+          HTML </p>
+      </section>
 
-        <h3>University of Mindanao</h3>
-        <p>Bachelor of Science in Information Technology</p>
-        <p>2018 - 2022</p>
-    </section>
-    <section>
-        <h2>Experience</h2>
-        <h3>Internship at Tech Solutions
-        </h3>
-        <p>Assisted in developing web applications using HTML, CSS, and JavaScript.</   
-        <p>Collaborated with a team of developers to troubleshoot and debug code.</p>
-        <p>Duration: June 2022 - August 2022</p>
-    </section>
-                
+      <section class="education">
+        <h3 class="section-title">Education</h3>
+        <h4>Not yet done</h4>
+        <p>
+          January 2022 to May 2023<br />
+          I gained a immersive ambition to deal with this life.
+        </p>
+      </section>
 
+      <section class="experience">
+        <h3 class="section-title">Experience</h3>
+        <article>
+          <h4>Sasaport - Just a lurker</h4>
+          <p>March 2022 to Present</p>
+          <ul>
+            <li>
+              Delivering pixel-perfect implementations using React and
+              TypeScript.
+            </li>
+            <li>
+              Collaborating with designers, backend engineers, and delivery
+              managers to size and scope work.
+            </li>
+            <li>
+              Create training materials and conduct training sessions to onboard
+              new team members.
+            </li>
+          </ul>
+          <p>
+            Skills: React, TypeScript, Jira, Figma, Design Systems, Enterprise
+            Software
+          </p>
+        </article>
 
-</body>
+        <article>
+          <h4>Done with life</h4>
+          <p>August 2019 - March 2022</p>
+          <ul>
+            <li>
+              Lead multiple teams of developers in delivering software solutions
+              to clients.
+            </li>
+            <li>
+              Coordinate with company founder to strategize and execute on
+              company deliverables.
+            </li>
+            <li>
+              Craft and deliver curriculum assessments for a full-stack coding
+              bootcamp.
+            </li>
+          </ul>
+          <p>
+            Skills: JavaScript, React, Node.js, Express, MongoDB, Agile
+            Methodologies, Leadership, Mentoring
+          </p>
+        </article>
+      </section>
+
+      <section class="internet">
+        <h3 class="section-title">Across the Internet</h3>
+        <a href="https://marleahmejos.dev">marleahmejos.dev</a><br />
+        <a href="https://www.linkedin.com/in/marleah-mejos/">LinkedIn</a><br />
+      </section>
+    </main>
+  </body>
 </html>
