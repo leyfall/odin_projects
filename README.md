@@ -6,4 +6,4 @@ update:
 
 Day 4 (12.21.25)
 putting here the url of this single page cv task
-https://github.com/leyfall/odin-rs_projects
+https://roadmap.sh/projects/single-page-cv
