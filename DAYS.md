@@ -24,3 +24,7 @@ Avoid AI for asking a question -- used the Odin Community + Google
 Day 4 (12.21.25)
 Putting a new project to learn such as the new single page cv something.
 
+Asking a question in TOP discord:
+
+       So, to summarize, don't ask "Any Java experts around?", but rather ask "How do I do [problem] with Java and [other relevant info]?"
+
