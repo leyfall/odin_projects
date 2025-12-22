@@ -1,4 +1,4 @@
-# odin_projects
+# odin-rs_projects 
 Putting all of the stuffs I'll learn for everyday.
 
 studying everyday till i learn all the foundamental.
