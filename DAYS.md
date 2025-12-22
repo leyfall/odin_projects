@@ -43,4 +43,11 @@ Taking notes and learning in my Kindle V about Fundamentals stuffs in Github.
          - Ruby, Javascript (unfortunately still don't know about this languages)
          - Json and jq
 
+Leetcode initiate first solve but copy and look on the problem for 
+
+960:  Delete Columns to Make Sorted II
+
+       this problem looks very similar to the Delete Columns to Make Sorted II we solved yesterday. But in the earlier version, our goal was to make the array of strings lexicographically sorted with respect to each other. Here however, the requirement subtly changes: after deleting some columns, each individual string (row) must be lexicographically sorted on its own. Instead of comparing rows with one another, we now focus on preserving order within the same row, while still deleting columns globally. - Srinivasa Pradeep
+
+I haven't full grasp whats all of this about but as you can see I wanna try and understand it although C++ and other language im not quite good at this.
 
