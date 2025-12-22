@@ -51,3 +51,5 @@ Leetcode initiate first solve but copy and look on the problem for
 
 I haven't full grasp whats all of this about but as you can see I wanna try and understand it although C++ and other language im not quite good at this.
 
+Im starting to day 1 in leetcode tomorrow, but all good today no need to rush.
+
