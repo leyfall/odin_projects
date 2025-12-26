@@ -71,9 +71,10 @@ Day 8 (12.25.25):
 On odin right now tackle this ff:
 
 - How Does the Web Work?
-- The Unix Shell - learning the shell, navigate,and work 
-
-
+- The Unix Shell - learning the shell, navigate,and work
 
        Merry Christmas!
+
+Day 9 (12.26.25):
+
 
