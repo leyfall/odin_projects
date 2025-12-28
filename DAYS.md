@@ -91,6 +91,7 @@ Day 11 (12.28.25): Late night study---lazy.
 
 - Done reading HTML for refreshing mind for 5 mins.
 - Setting up Git and Github (github is already done, just updating git) 5mins
-- 
+- Step 3: Let us know how it went!
+         -It went good although i did not know or why i did not put the ssh key before but anyway all success now. (Small steps is much better compared to none.)
 
 
