@@ -96,7 +96,7 @@ Day 11 (12.28.25): Late night study---lazy.
 
 Day 12 (12.29.25): Early a bit but could lapse 50mins for this (hopefully)
 
-- (ongoing) Read chapters 1.1 through 1.4 from the Getting Started section of Pro Git to learn the differences between local, centralized, and distributed version control systems.
-
+- (done) Read chapters 1.1 through 1.4 from the Getting Started section of Pro Git to learn the differences between local, centralized, and distributed version control systems.
+-
 
 
