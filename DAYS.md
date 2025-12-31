@@ -115,6 +115,6 @@ Day 14 (12.31.25): Last day of December and also 2025
 
 - Brief study since New Year so busy today.
 - Git commit still testing and practicing.
-
+- Reading git in RS (roadmap sh)
 
 
