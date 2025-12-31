@@ -111,5 +111,9 @@ Day 13 (12.30.25): OH GODS i never thought i did so much yesterday and now im de
 - Still confused about Git but fighting.
 - Reading HTTP to the brim that makes my brain on fire.
 
+Day 14 (12.31.25): Last day of December and also 2025
+
+- Brief study since New Year so busy today.
+
 
 
