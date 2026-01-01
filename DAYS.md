@@ -119,5 +119,5 @@ Day 14 (12.31.25): Last day of December and also 2025
 
          Happy New Year!!! goodbye 2025 see you 2026
 
-...
+Day 15 (01.01.26): Late time study and short
 
