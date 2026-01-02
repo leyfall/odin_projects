@@ -123,3 +123,7 @@ Day 15 (01.01.26): Late time study and short
 
 - Reading Real World Software Development 30mins
 
+Day 16 (01.02.26): 
+
+- Reading CCI for 10mins
+- 
