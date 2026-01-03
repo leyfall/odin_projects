@@ -6,7 +6,7 @@ Putting all of the stuffs I'll learn for everyday.
 
 studying everyday till I ~~learn all the foundamental~~ somebody ask me "Hey can I use that?" or "Let me pay/play that"
 
-Day 1 (12.18.25): 
+Day 1 - 12.18.25
 
 Flow -- but learning back the basics of odin.
 
